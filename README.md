@@ -1,2 +1,7 @@
 # Translucency-Rendering
   一个清晰度并不太高的demo视频，家里的电脑显卡太差了，不支持glsl460。因此跑不动g3d写的程序。。
+![translucency1](https://github.com/cr-tg/Translucency-Rendering/blob/master/PictureSet/translucency1.png)
+
+![tansluceny2](https://github.com/cr-tg/Translucency-Rendering/blob/master/PictureSet/tansluceny2.png)
+
+![transluceny3](https://github.com/cr-tg/Translucency-Rendering/blob/master/PictureSet/transluceny3.png)
